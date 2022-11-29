@@ -39,7 +39,7 @@ You can follow instruction [here](https://www.jetbrains.com/help/idea/installati
 <a name="chromedriver"></a>
 ### Install Chromedriver
 
-- Linux
+#### Linux
 1. sudo apt-get install unzip
 2. wget -N http://chromedriver.storage.googleapis.com/2.10/chromedriver_linux64.zip -P ~/Downloads
 3. unzip ~/Downloads/chromedriver_linux64.zip -d ~/Downloads
@@ -49,4 +49,5 @@ You can follow instruction [here](https://www.jetbrains.com/help/idea/installati
    - sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
    - sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
 
-- MacOS => You can follow instruction [here](https://www.kenst.com/installing-chromedriver-on-mac-osx/#:~:text=The%20easiest%20way%20to%20install,seeing%20it%20returns%20a%20version.)
+#### MacOS
+You can follow instruction [here](https://www.kenst.com/installing-chromedriver-on-mac-osx/#:~:text=The%20easiest%20way%20to%20install,seeing%20it%20returns%20a%20version.)
